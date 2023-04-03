@@ -1,14 +1,16 @@
 
 # Requirement: 
 Install zed-ros-wrapper zed-ros-examples follow tutorial 1
+
 Install open3D
-# ROS1 Noetic
-# To run : 
-# Build package (terminal 1)
+
+# Environnement : ROS1 Noetic Ubuntu 20.04
+## To run : 
+## Terminal 1 : Build package
 cd ~/catkin_ws_pic
 catkin_make
 source ./devel/setup.bash
-# T2 launch camera
+# TTerminal 2 : launch camera
 roslaunch zed_wrapper zed2i.launch
 
 rosrun pc_register pc_merge.py
