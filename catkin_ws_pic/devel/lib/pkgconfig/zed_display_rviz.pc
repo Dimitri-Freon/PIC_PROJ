@@ -1,0 +1,8 @@
+prefix=/home/ruan/catkin_ws_pic/devel
+
+Name: zed_display_rviz
+Description: Description of zed_display_rviz
+Version: 3.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

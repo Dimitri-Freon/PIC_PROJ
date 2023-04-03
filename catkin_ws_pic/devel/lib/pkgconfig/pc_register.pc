@@ -1,0 +1,8 @@
+prefix=/home/ruan/catkin_ws_pic/devel
+
+Name: pc_register
+Description: Description of pc_register
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

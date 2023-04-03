@@ -1,0 +1,8 @@
+prefix=/home/ruan/catkin_ws_pic/install
+
+Name: pc_display
+Description: Description of pc_display
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
